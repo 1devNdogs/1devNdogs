@@ -6,7 +6,7 @@ vsalgado.a@gmail.com || https://github.com/1devndogs
 My current personal stack is, Typescript, React Hooks+Redux, NodeJS, and MongoDB.
 Currently focused in web3/blockchain integrations and defi protocols.
 
-## Work Experience.
+# Work Experience.
 
 ## Trojan.finance
 
