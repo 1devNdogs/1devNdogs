@@ -6,6 +6,8 @@ Victor Leonardo Salgado Aguayo
 - vsalgado.a@gmail.com
 - https://github.com/1devndogs
 
+[Download my resume](https://docs.google.com/document/d/1Ca3vC4zQ_aTHcL2fB7XKmcbPtgTir-mnXDeD7jbBgRE/edit?usp=sharing)
+
 **Full-Stack Developer**. Self-driven and motivated.  
 My current personal stack is, Typescript, React Hooks+Redux, NodeJS, and MongoDB.
 Currently focused on web3/blockchain integrations and defi protocols.
