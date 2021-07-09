@@ -141,10 +141,10 @@ Currently focused on web3/blockchain integrations and defi protocols.
 - Cloudflare.
 
 - Web3
+- Ethers.js
 
   - Infura
   - Quiknode
-  - Ethers.js
 
 - React / Redux.
 - MongoDB, Postgresql, DynamoDB.
@@ -154,7 +154,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 - Discord.
 - Telegram.
 
-- Got no social networks accounts.
+- Node, TS, Python, currently learning rust.
 
 ## EDUCATION
 
