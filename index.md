@@ -108,7 +108,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 06 2013 - 08 2013
 
-- Desarrollo de un sistema de obtencion y procesamiento de datos, desde la toma de los inputs serial en formato binario hasta su procesamiento, monitoreo y alarmas en tiempo real.
+- Development of a data collection and processing system, from taking serial inputs in binary format to processing, monitoring and alarms in real time.
 
 - "This job was key for me, it makes me get in real-time apps, that making me hate me hate J2EE stacks, so I started my JS full-stack way, getting in Meteor JS, I started to realize that I could develop faster and better solutions with other technologies. I loved meteor and their DDP protocol to the point I hosted a couple of meteor meetups in Chile."
 
