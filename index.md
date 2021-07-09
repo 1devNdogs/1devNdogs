@@ -2,7 +2,8 @@
 
 Victor Leonardo Salgado Aguayo
 
-- Leo Salgado | vsalgado.a@gmail.com
+- Leo Salgado
+- vsalgado.a@gmail.com
 - https://github.com/1devndogs
 
 **Full-Stack Developer**. Self-driven and motivated.  
