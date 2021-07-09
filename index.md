@@ -71,7 +71,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 - Development of a leaflet system for a real estate conservator. Using Meteor, MongoDB, Cron Jobs, and react js.
 
-"Handled big load of documents and images, I developed a system to digitize thousands of documents through a simple file naming pattern that already was the standard for the client, allowing to eliminate the manual process of searching and generating public duplicates for the conservator clients needs."
+"Managed a big load of documents and images, I developed a system to digitize thousands of documents through a simple file naming pattern that already was the standard for the client, allowing to eliminate the manual process of searching and generating public duplicates for the conservator clients needs."
 
 ## The Hack Way (Concepcion, Chile) — Full Stack Developer
 
