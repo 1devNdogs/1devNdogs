@@ -1,6 +1,7 @@
-# Victor Leonardo Salgado Aguayo
+# 👨‍💻 1devNdogs 🐶 resume 📃
 
-vsalgado.a@gmail.com || https://github.com/1devndogs
+Victor Leonardo Salgado Aguayo | Leo Salgado | vsalgado.a@gmail.com
+|| https://github.com/1devndogs ||
 
 **Full-Stack Developer**. Self-driven and motivated.  
 My current personal stack is, Typescript, React Hooks+Redux, NodeJS, and MongoDB.
