@@ -25,7 +25,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 ## Quantum-x, Chile — Full Stack Developer.
 
-12 2018 - 12 2020
+01 2019 - 12 2020
 
 - Consulted, designed, and developed a Blockchain proof of concept platform that connects Swift ISO 15022 messages with ZK-Proofs generation using Aztec-Protocol within an Ethereum private network designed for the 21 private banks in the Chilean Primary market. (Crypto Bond project for the Central Bank of Chile.)
 
@@ -37,7 +37,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 ## Kawin, Santiago, Chile — Full Stack Developer
 
-05 2018 - 10 2018
+08 2018 - 12 2018
 
 - Developed the web3 API endpoint modules for an Ethereum private network designed to be a backup platform for the current payment services in a POC for the Chilean Treasury Department project.
 
@@ -49,7 +49,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 ## Nuclo.io (Remote, California USA) — Full Stack Developer
 
-05 2018 - 08 2018
+06 2018 - 08 2018
 
 - Developed a React Native web3 wallet for a smart supply startup. Integrating traditional payments channels with user's balances with ERC20 tokens.
 
@@ -57,7 +57,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 ## IntegralIT (Santiago, Chile)— Full Stack Developer
 
-03 2017 - 06 2018
+03 2017 - 05 2018
 
 - Develop and implement deployment and rollbacks strategies in a pretty segregated and closed access platform.
 - J2EE Monitoring and support.
@@ -74,6 +74,8 @@ Currently focused on web3/blockchain integrations and defi protocols.
 "Handled big load of documents and images, I developed a system to digitize thousands of documents through a simple file naming pattern that already was the standard for the client, allowing to eliminate the manual process of searching and generating public duplicates for the conservator clients needs."
 
 ## The Hack Way (Concepcion, Chile) — Full Stack Developer
+
+01 2015 - 12 2015
 
 - Developed a project management platform, events, and news, related to entrepreneurship, technology, and science.
   as part of a program aimed at expanding and facilitating entrepreneurship in the Bio-Bio region, supported by Hiway S.A. and the Chilean Government (Innova Bio-Bio).
