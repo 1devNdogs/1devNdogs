@@ -6,7 +6,8 @@ Victor Leonardo Salgado Aguayo
 - vsalgado.a@gmail.com
 - https://github.com/1devndogs
 
-[Download my resume](https://docs.google.com/document/d/1Ca3vC4zQ_aTHcL2fB7XKmcbPtgTir-mnXDeD7jbBgRE/edit?usp=sharing)
+[Docs](https://docs.google.com/document/d/1Ca3vC4zQ_aTHcL2fB7XKmcbPtgTir-mnXDeD7jbBgRE/edit?usp=sharing)
+[Pdf](https://drive.google.com/file/d/1zN22E-X0Ntc9fpyL921X0yf-vT0kZbNp/view?usp=sharing)
 
 **Full-Stack Developer**. Self-driven and motivated.  
 My current personal stack is, Typescript, React Hooks+Redux, NodeJS, and MongoDB.
@@ -144,18 +145,14 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 # Current Tools / Services
 
+Tools and services that I use daily.
+
 - VSCode
 - Draw.io
 - GIT
 - Heroku.
 - AWS.
 - Cloudflare.
-
-- Web3
-- Ethers.js
-
-  - Infura
-  - Quiknode
 
 - React / Redux.
 - MongoDB, Postgresql, DynamoDB.
@@ -165,7 +162,13 @@ Currently focused on web3/blockchain integrations and defi protocols.
 - Discord.
 - Telegram.
 
-- Node, TS, Python, currently learning rust.
+- Web3
+- Ethers.js
+
+  - Infura
+  - Quiknode
+
+- Node, TS, currently learning some rust.
 
 ## EDUCATION
 
@@ -182,8 +185,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
   Educacion media · (2002 - 2005)
 
 - Instituto Técnico Blase Pascal.
-  Armado y Mantención de Computadores, Tecnología de la
-  información · (2001)
+  Assembly and Maintenance of Computers· (2001)
 
 - Instituto Técnico Blase Pascal.
-  Introduccion a la programacion. · (1999)
+  C Programming introduction. · (1999)
