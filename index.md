@@ -170,7 +170,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
   - Liferay Portal Enterprise Edition 6.1.0 Portal Developer.
 
 - Universidad Técnica Federico Santa María
-  Técnico en Informática · (2009 - 2011)
+  Técnico en Informática · (2009 - 2012)
 
 - Colegio La Asunción, Talcahuano
   Educacion media · (2002 - 2005)
