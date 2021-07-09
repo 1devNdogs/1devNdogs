@@ -120,7 +120,7 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 - Design and development of two automatic control and alert systems for Bosques Arauco S.A, allowing the client to foresee material losses and plant shutdowns by knowing in advance the internal status of the components in charge of transporting and weighing the plant material. Contrasting these data with the differential weight of entry and exit of transport vehicles.
 
-"After vertical soft, I was full with J2EE frameworks, not quite a fan but full, this project allows me to confirm my capacity to be a full stack developer, and no just that, my capacities designing an effective solution."
+"After vertical soft, I was full with J2EE frameworks, not quite a fan but full, this project allows me to confirm my capacity to be a full stack developer and build an effective solution."
 
 ## Vertical Soft (Santiago, Chile) — J2EE Developer
 
