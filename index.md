@@ -1,7 +1,8 @@
 # 👨‍💻 1devNdogs 🐶 resume 📃
 
-Victor Leonardo Salgado Aguayo | Leo Salgado | vsalgado.a@gmail.com
-|| https://github.com/1devndogs ||
+Leo Salgado | vsalgado.a@gmail.com
+Victor Leonardo Salgado Aguayo
+ttps://github.com/1devndogs
 
 **Full-Stack Developer**. Self-driven and motivated.  
 My current personal stack is, Typescript, React Hooks+Redux, NodeJS, and MongoDB.
@@ -13,7 +14,10 @@ Currently focused on web3/blockchain integrations and defi protocols.
 
 02 2021 - 06 2021
 
-- After my last job. I decided to take some time to update myself about the current state of the blockchain. Facing the DEFI ecosystem (gas wars, arbitrage bots, flash swap/loans, MEV, etc.) Learned and developed several personal tools/scripts, at some point and with a couple of tweaks were joined and refactored to this real-time transaction explorer for Uni V2, Sushi, and Uni V3 with mempool transactions. https://github.com/we-commit/ | https://app.trojan.finance
+- After my last job. I decided to take some time to update myself about the current state of the blockchain. Facing the DEFI ecosystem (gas wars, arbitrage bots, flash swap/loans, MEV, etc.) Learned and developed several personal tools/scripts, at some point and with a couple of tweaks were joined and refactored to this real-time transaction explorer for Uni V2, Sushi, and Uni V3 with mempool transactions.
+
+[Link](https://github.com/we-commit)
+[Link](https://app.trojan.finance)
 
 ## Quantum-x, Chile — Full Stack Developer.
 
