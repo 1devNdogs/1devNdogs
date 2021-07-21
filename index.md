@@ -11,7 +11,8 @@ Victor Leonardo Salgado Aguayo
 
 **Full-Stack Developer**. Self-driven and motivated.  
 My current personal stack is, Typescript, React Hooks+Redux, NodeJS, and MongoDB.
-Currently focused on web3/blockchain integrations and defi protocols.
+
+Currently focused on blockchain, defi protocols, polkadot ecosystem, rust, wasm.
 
 # Work Experience.
 
