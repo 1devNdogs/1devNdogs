@@ -6,9 +6,10 @@
 - https://t.me/onedevndogs
 
 
-**Full-Stack Developer**. 
-Self-driven-taugth and motivated. My current personal stack is, Typescript, React Hooks+Redux, NodeJS, and MongoDB. Currently focused on blockchain and learning new and interesting things.
-
-Love doing chemistry home experiments and camping and have some time with my dogs. https://www.instagram.com/1devndogs
+### Full-Stack Developer
+Self-driven-taugth and motivated. 
+My current personal stack is, Typescript, React, NodeJS... 
+Currently focused in blockchain 
+Learning new things.
 
 Cheers! 
