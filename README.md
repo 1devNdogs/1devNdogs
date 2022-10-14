@@ -7,9 +7,4 @@
 
 
 ### Full-Stack Developer
-Self-driven-taugth and motivated. 
-My current personal stack is, Typescript, React, NodeJS... 
-Currently focused in blockchain 
-Learning new things.
 
-Cheers! 
