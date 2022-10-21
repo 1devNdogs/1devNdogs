@@ -1,4 +1,4 @@
-# 👨‍💻 1devNdogs 🐶 
+# 👨‍💻 1devNdogs 🐶 🐩 🐕 🐕‍🦺
 
 - Leo Salgado
 - vsalgado.a@gmail.com
