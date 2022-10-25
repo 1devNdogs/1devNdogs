@@ -1,10 +1,9 @@
-# 👨‍💻 1devNdogs 🐶 🐩 🐕 🐕‍🦺
+# 👨‍💻 1devNdogs / Full-Stack Developer 🐶 🐩 🐕 🐕‍🦺
 
-- Leo Salgado
+Contact Info:
 - vsalgado.a@gmail.com
 - https://github.com/1devndogs
 - https://t.me/onedevndogs
 
 
-### Full-Stack Developer
-
+### One with the Force :fist:
