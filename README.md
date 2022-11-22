@@ -1,4 +1,4 @@
-# 👨‍💻 1devNdogs / Full-Stack Developer 🐶 🐩 🐕 🐕‍🦺
+# 👨‍💻 1devNdogs / Full-Stack Developer 🐶 🐩 🐕 🐕‍🦺 🐕 🐕‍🦺 🐩
 
 Contact Info:
 - vsalgado.a@gmail.com
