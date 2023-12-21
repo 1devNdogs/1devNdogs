@@ -1,3 +1,3 @@
-# 👨‍💻 1devNdogs / Full-Stack Developer 🐶 🐩 🐕 🐕‍🦺 🐕 🐕‍🦺 
+# 👨‍💻 1devNdogs / Full-Stack Developer 🐶 🐕 🐕‍🦺 🐕  
 
 One with the Force :fist:
